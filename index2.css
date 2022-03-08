@@ -1,0 +1,53 @@
+.container{
+    font-size: 55px;
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    left: 400px;
+}
+.text{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    /* margin: 100px; */
+    text-align: center;
+   border-radius: 10px;
+   position: absolute;
+   left: 400px;
+   top: 200px;
+   /* margin-left: 200px; */
+    border: 2px solid red;
+    box-shadow: 10px 10px 15px gray
+}
+span{
+    font-size: 30px;
+}
+i{
+   
+    color: red;
+}
+span{
+    color: turquoise;
+}
+p{
+    text-align: center;
+}
+.z{
+    text-align: center;
+    font-size: 15px;
+    color: red;
+    text-decoration: line-through;
+}
+.x{
+    position: absolute;
+    right: 10px;
+    bottom: 5px;
+}
+.a{
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
